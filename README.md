@@ -17,7 +17,6 @@ I enjoy designing and building scalable backend systems, solving engineering cha
 **Languages**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -27,7 +26,6 @@ I enjoy designing and building scalable backend systems, solving engineering cha
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 **Databases & Messaging**
@@ -63,16 +61,7 @@ A backend system designed to manage asynchronous jobs with reliability and fault
 
 Explore the architecture, core functionality and implementation of RootPilot.
 
-### 3. [AI Demand Forecasting & Replenishment](https://github.com/Ved0705/AI-Demand-Forecasting-Replenishment)
-**Machine Learning | Predictive Analytics**
-
-An intelligent demand forecasting and inventory replenishment project.
-
-- Focuses on predicting future product demand.
-- Applies machine learning to support inventory planning.
-- Connects predictive insights with replenishment decisions.
-
-### 4. VaultShare *(Currently in Development)*
+### 3. VaultShare *(Currently in Development)*
 **Temporary Secure File & Secret Sharing Platform**
 
 A security-focused application for sharing sensitive information with controlled access and automatic expiration.
@@ -82,6 +71,20 @@ A security-focused application for sharing sensitive information with controlled
 - AWS Cognito-based authentication.
 - AES-256-GCM envelope encryption and Argon2id passphrase verification.
 - Supports access limits, expiration policies and audit logging.
+
+
+### 4. [NeuroScan AI](https://github.com/parthmital/NeuroScan-AI)
+**AI-Powered Brain Tumour Analysis | Deep Learning**
+
+A full-stack medical imaging application for brain tumour detection, classification and segmentation using MRI scans.
+
+- Uses EfficientNet-B0 for tumour detection and classification.
+- Implements 3D tumour segmentation using SegResNet.
+- Built with React, FastAPI, PyTorch and MONAI.
+- Supports FLAIR, T1, T1CE and T2 MRI modalities.
+- Features interactive 2D/3D MRI visualization with tumour segmentation overlays.
+- Generates PDF and CSV reports for processed scans.
+
 
 ---
 
